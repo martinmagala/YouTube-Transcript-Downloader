@@ -1,0 +1,4 @@
+Flask==2.3.2
+pytube3
+youtube_transcript_api==0.6.1
+pytube~=15.0.0
